@@ -3,6 +3,7 @@
 #### Rede Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogério-santos-codebyroger)
 
+![Codebyroger GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyroger&show_icons=true&theme=radical)
 
 ### about me
 Atualmente cursando Engenharia de Software, sou um estudante dedicado com forte interesse no desenvolvimento de soluções escaláveis e eficientes na área de back-end. Durante a minha trajetória acadêmica, tenho aprofundado meus conhecimentos em  Técnologias como, Java, C++, MySql e SpringBoot.
